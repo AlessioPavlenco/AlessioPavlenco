@@ -63,9 +63,9 @@ I’m Alessio Pavlenco, a 17-year-old entrepreneur from Moldova, combining my pa
 
 <details>
  <summary><h3>👨‍💻 Alessio's Coding Journey</h3></summary>
-I started my coding journey back in 2015, tinkering with small projects in games like Counter-Strike, Minecraft, and FiveM. Back then, I was just experimenting, but those early experiences ignited a passion for creating and problem-solving with code. As I delved deeper into the development world, I discovered the vast possibilities of the tech industry and began teaching myself JavaScript.
+I started my coding journey back in 2015👾, tinkering with small projects in games like Counter-Strike, Minecraft, and FiveM. Back then, 🟣I was just experimenting, but those early experiences ignited a passion for creating and problem-solving with code. As I delved deeper into the development world, 🌂I discovered the vast possibilities of the tech industry and began teaching myself JavaScript.
 
-Fast forward to 2025, and I’ve grown into a successful software engineer, mastering both front-end and back-end development. Along the way, I’ve built everything from websites to applications, combining creativity and technical expertise to solve real-world problems. My journey hasn’t been just about coding—it’s been about constantly pushing myself to learn, grow, and turn ideas into reality.
+Fast forward to 2025, and I’ve grown into a successful software engineer, 🍇mastering both front-end and back-end development. Along the way, I’ve built everything from websites to applications, combining creativity and technical expertise to solve real-world problems. 💜My journey hasn’t been just about coding—it’s been about constantly pushing myself to learn, grow, and turn ideas into reality.
 
 [website]: https://alessiopavlenco.com
 [youtube]: https://youtube.com/@AlessioPavlenco54
