@@ -57,7 +57,7 @@ I’m Alessio Pavlenco, a 17-year-old entrepreneur from Moldova, combining my pa
 
 ![a1pN's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessiopavlenco&show_icons=true&theme=gruvbox)
 
-[GitHub Streak](https://streak-stats.demolab.com?user=alessiopavlenco&theme=gruvbox&border_radius=4.5)
+<!--[GitHub Streak](https://streak-stats.demolab.com?user=alessiopavlenco&theme=gruvbox&border_radius=4.5)-->
 
 #
 
