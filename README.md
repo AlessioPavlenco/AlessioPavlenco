@@ -1,6 +1,6 @@
 # 🔮 Alessio "a1pN" Pavlenco
 
-**`🇲🇩17 y.o (Developer/Contmt Creator/Entrepreneur)`**
+**`17 y.o (Developer/Contmt Creator/Entrepreneur)`**
 
 I’m Alessio Pavlenco, a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of aipn.agency, I’m building my vision of the digital world while documenting my journey: 💪 fitness and gym progress, 🌍 life experiences and growth, 🚀 scaling my agency, and 👨‍💻 advancing my career in development. Every project I create is built from the ground up, and I share my story on my YouTube channel, Alessio Pavlenco, to inspire and connect with others.
 
