@@ -58,16 +58,16 @@
 [![A Day in the Life of a Software Engineer](https://ytcards.demolab.com/?id=WBl31Pyr_M8&title=A+Day+in+the+Life+of+a+Software+Engineer&lang=en&timestamp=1730376039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2259 "A Day in the Life of a Software Engineer")](https://www.youtube.com/watch?v=WBl31Pyr_M8)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@AlessioPavlenco54?sub_confirmation=1)
+<!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@AlessioPavlenco54?sub_confirmation=1) -->
 
-#
+<!--#-->
 
 <!--Github stats Table--> 
 <h2 align="center">🟣 Stats 🟣</h2>
 <table width="100%">
   <tbody><tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessioPavlenco&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
@@ -75,7 +75,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>𝗦𝘁𝗿𝗲𝗮𝗸 𝗦𝘁𝗮𝘁𝘀</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco">
           <img align="center" src="https://streak-stats.demolab.com?user=AlessioPavlenco&amp;theme=nightowl" alt="Streak Stats">
@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>𝗟𝗮𝘁𝗲𝘀𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco/cryptos">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessioPavlenco&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
@@ -93,7 +93,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>𝗧𝗼𝗽 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AlessioPavlenco&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
