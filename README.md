@@ -2,8 +2,6 @@
 
 **`17 y.o (Developer/Contmt Creator/Entrepreneur)`**
 
- Every project I create is built from the ground up, and I share my story on my YouTube channel, Alessio Pavlenco, to inspire and connect with others.
-
 <p align="left">I’m a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of @Aipn Agency, I’m building my vision of the digital world while documenting my journey:</p>
 <ul>
 <li>🎮 Fitness and gym progress.</li>
@@ -23,23 +21,23 @@
 
 ---
 
-### 🧰 Languages and Tools
+### 😈 Languages and Tools
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<p><img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=violet" alt="">
+<img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&amp;logo=html5&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&amp;logo=css3&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&amp;logo=php&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/Code-csharp-informational?style=flat&amp;logo=csharp&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/Code-Swift-informational?style=flat&amp;logo=swift&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/GitHub-Git-informational?style=flat&amp;logo=git&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/IDE-VSCode-informational?style=flat&amp;logo=visualstudiocode&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&amp;logo=xcode&amp;logoColor=white&amp;color=blueviolet" alt=""></p>
 <br />
 
 #
