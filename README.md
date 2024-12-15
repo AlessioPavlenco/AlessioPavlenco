@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&amp;logo=css3&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&amp;logo=php&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=blueviolet" alt="">
-<img src="https://img.shields.io/badge/IDE-VSCode-informational?style=flat&amp;logo=visualstudiocode&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=codeium&logoColor=white&label=IDE&color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&amp;logo=xcode&amp;logoColor=white&amp;color=blueviolet" alt="">
 </p>
 <br />
