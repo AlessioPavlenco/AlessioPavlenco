@@ -93,7 +93,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Top Contributions</strong></h3>
+      <h3 align="center"><strong>Top Contribution</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AlessioPavlenco&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
