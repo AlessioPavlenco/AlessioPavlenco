@@ -16,6 +16,7 @@
 
 
 <p align="left">
+  <img src="https://youtube.com/@AlessioPavlenco54&amp;color=blueviolet&amp;style=for-the-badge&amp;logo=star" alt="AlessioPavlenco" style="padding-right:20px;">
   <img src="https://komarev.com/ghpvc/?username=AlessioPavlenco&amp;label=Profile%20views&amp;color=blueviolet&amp;style=for-the-badge&amp;logo=star" alt="AlessioPavlenco" style="padding-right:20px;">
 </p>
 
