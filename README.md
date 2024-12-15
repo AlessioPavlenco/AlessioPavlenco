@@ -2,6 +2,8 @@
 
 **`17 y.o (Developer/Contmt Creator/Entrepreneur)`**
 
+<br>
+
    <a href="https://www.linkedin.com/in/AlessioPavlenco/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Icon-Linkedin-Alessio?style=flat&logo=linkedin&logoColor=white&label=Follow%20Me%20On&color=blueviolet">
   </a>   
@@ -16,6 +18,9 @@
   </a>
 
 <p align="left">I’m a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of @Aipn Agency, I’m building my vision of the digital world while documenting my journey:</p>
+
+<br>
+
 <ul>
 <li>🎮 Fitness and gym progress.</li>
 <li>🌆 I teach you how to elevate your agency to new heights and become a true entrepreneur as a software engineer.</li>
