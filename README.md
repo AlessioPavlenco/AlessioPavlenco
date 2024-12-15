@@ -62,16 +62,48 @@
 
 #
 
-</div>
-
+<!--Github stats Table--> 
 <h2 align="center">🟣 Stats 🟣</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-alessiopavlenco.vercel.app/?user=alessiopavlenco&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-alessiopavlenco.vercel.app/api?username=alessiopavlenco&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-alessiopavlenco.vercel.app/api/top-langs/?username=alessiopavlenco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<table width="100%">
+  <tbody><tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/AlessioPavlenco">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessioPavlenco&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/AlessioPavlenco">
+          <img align="center" src="https://streak-stats.demolab.com?user=AlessioPavlenco&amp;theme=nightowl" alt="Streak Stats">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/AlessioPavlenco/cryptos">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessioPavlenco&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/AlessioPavlenco">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AlessioPavlenco&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
+        </a>
+      </p>
+    </td>
+  </tr>
+</tbody></table>
+
+
 #
 
 [website]: https://alessiopavlenco.com
