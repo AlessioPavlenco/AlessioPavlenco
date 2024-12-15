@@ -2,7 +2,20 @@
 
 **`17 y.o (Developer/Contmt Creator/Entrepreneur)`**
 
-I’m Alessio Pavlenco, a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of @Aipn Agency, I’m building my vision of the digital world while documenting my journey: 💪 fitness and gym progress, 🌍 life experiences and growth, 🚀 scaling my agency, and 👨‍💻 advancing my career in development. Every project I create is built from the ground up, and I share my story on my YouTube channel, Alessio Pavlenco, to inspire and connect with others.
+ Every project I create is built from the ground up, and I share my story on my YouTube channel, Alessio Pavlenco, to inspire and connect with others.
+
+<p align="left">I’m a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of @Aipn Agency, I’m building my vision of the digital world while documenting my journey:</p>
+<ul>
+<li>🎮 Fitness and gym progress.</li>
+<li>🌆 I teach you how to elevate your agency to new heights and become a true entrepreneur as a software engineer.</li>
+<li>💟 Life experiences and growth.</li>
+<li>💜 I share my story on my<a href="https://youtube.com/@AlessioPavlenco54">YouTube channel</a>.</li>
+<li>🟣 Scaling my <strong>Agency</strong>.</li>
+<li>🫐 Advancing my career in development.</li>
+<li>🎬 Recording all about my life on my<a href="https://youtube.com/@AlessioPavlenco54">YouTube channel</a>.</li>
+<li>👾 Visit my <a href="https://alessiopavlenco.com">WebSite</a> for more details about me.</li>
+</ul>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AlessioPavlenco&amp;label=Profile%20views&amp;color=770677&amp;style=for-the-badge&amp;logo=star" alt="AlessioPavlenco" style="padding-right:20px;">
