@@ -1,4 +1,4 @@
-# 💷 𝘈𝘭𝘦𝘴𝘴𝘪𝘰 "𝘢1𝘱𝘕" 𝘗𝘢𝘷𝘭𝘦𝘯𝘤𝘰
+# 💷 Alessio "a1pN" Pavlenco
 
 **`17 y.o (Developer/Contmt Creator/Entrepreneur)`**
 
@@ -47,7 +47,7 @@
 
 #
 
-<!--### 📺 Latest YouTube Videos-->
+<!--### 📺 Latest YouTube Videosh-->
 
 <!-- BEGIN YOUTUBE-CARDS 
 [![Everything You NEED to Know about Docker](https://ytcards.demolab.com/?id=oUnWU4Y4kSY&title=Everything+You+NEED+to+Know+about+Docker&lang=en&timestamp=1734102064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1106 "Everything You NEED to Know about Docker")](https://www.youtube.com/watch?v=oUnWU4Y4kSY)
