@@ -24,13 +24,12 @@
 ### 😈 Languages and Tools
 
 <p>
-<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&amp;logo=html5&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&amp;logo=css3&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&amp;logo=php&amp;logoColor=white&amp;color=blueviolet" alt="">
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-csharp-informational?style=flat&amp;logo=csharp&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=blueviolet" alt="">
