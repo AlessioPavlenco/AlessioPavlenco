@@ -2,6 +2,19 @@
 
 **`17 y.o (Developer/Contmt Creator/Entrepreneur)`**
 
+   <a href="https://www.linkedin.com/in/AlessioPavlenco/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
+  </a>   
+   <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white">
+  </a>  
+  <a href="https://www.kaggle.com/aastha124" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=Kaggle&amp;logoColor=white">
+  </a>  
+ <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white">
+  </a>
+
 <p align="left">I’m a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of @Aipn Agency, I’m building my vision of the digital world while documenting my journey:</p>
 <ul>
 <li>🎮 Fitness and gym progress.</li>
