@@ -63,7 +63,7 @@
 <!--#-->
 
 <!--Github stats Table--> 
-<h2 align="left">🟣 𝗦𝘁𝗮𝘁𝘀</h2>
+<h2 align="left">🌂 Stats</h2>
 <table width="100%">
   <tbody><tr>
     <td width="50%">
