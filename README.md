@@ -107,7 +107,7 @@
       <h3 align="center"><strong>𝙻𝚊𝚝𝚎𝚜𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco/Aipn Agency">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessioPavlenco&amp;repo=cryptos&amp;theme=nightowl;show_owner=true" alt="Aipn Project">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessioPavlenco&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Aipn Project">
         </a>
       </p>
     </td>
@@ -115,7 +115,7 @@
       <h3 align="center"><strong>𝚃𝚘𝚙 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AlessioPavlenco&amp;limit=3&amp;theme=nightowl;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AlessioPavlenco&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
         </a>
       </p>
     </td>
