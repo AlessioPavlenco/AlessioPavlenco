@@ -67,7 +67,7 @@
 <table width="100%">
   <tbody><tr>
     <td width="50%">
-      <h3 align="center"><strong>𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</strong></h3>
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessioPavlenco&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
@@ -75,7 +75,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>𝗦𝘁𝗿𝗲𝗮𝗸 𝗦𝘁𝗮𝘁𝘀</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco">
           <img align="center" src="https://streak-stats.demolab.com?user=AlessioPavlenco&amp;theme=nightowl" alt="Streak Stats">
@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>𝗟𝗮𝘁𝗲𝘀𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁</strong></h3>
+      <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco/Aipn Agency">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessioPavlenco&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Aipn Project">
@@ -93,7 +93,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>𝗧𝗼𝗽 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀</strong></h3>
+      <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AlessioPavlenco&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
