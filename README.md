@@ -66,6 +66,7 @@
 <h2 align="center">🟣 𝗦𝘁𝗮𝘁𝘀 🟣</h2>
 <table width="100%">
     <td width="50%">
+        <tbody><tr>
       <h3 align="center"><strong>𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</strong></h3>
       <p align="center">
         <a href="https://github.com/AlessioPavlenco">
