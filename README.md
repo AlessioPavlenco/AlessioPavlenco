@@ -16,14 +16,14 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AlessioPavlenco&amp;label=Profile%20views&amp;color=770677&amp;style=for-the-badge&amp;logo=star" alt="AlessioPavlenco" style="padding-right:20px;">
+  <img src="https://komarev.com/ghpvc/?username=AlessioPavlenco&amp;label=Profile%20views&amp;color=blue violet;style=for-the-badge&amp;logo=star" alt="AlessioPavlenco" style="padding-right:20px;">
 </p>
 
 ---
 
 ### 😈 Languages and Tools
 
-<p><img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=violet" alt="">
+<p><img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&amp;logo=html5&amp;logoColor=white&amp;color=blueviolet" alt="">
