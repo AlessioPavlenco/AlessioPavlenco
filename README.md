@@ -53,19 +53,16 @@ I’m Alessio Pavlenco, a 17-year-old entrepreneur from Moldova, combining my pa
 
 #
 
-### 📊 Stats
-
-![a1pN's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessiopavlenco&show_icons=true&theme=gruvbox)
-
-<!--[GitHub Streak](https://streak-stats.demolab.com?user=alessiopavlenco&theme=gruvbox&border_radius=4.5)-->
+<h2 align="center">🟣 Stats 🟣</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-alessiopavlenco.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-alessiopavlenco.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-alessiopavlenco.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 #
-
-<details>
- <summary><h3>👨‍💻 Alessio's Coding Journey</h3></summary>
-I started my coding journey back in 2015👾, tinkering with small projects in games like Counter-Strike, Minecraft, and FiveM. Back then, 🟣I was just experimenting, but those early experiences ignited a passion for creating and problem-solving with code. As I delved deeper into the development world, 🌂I discovered the vast possibilities of the tech industry and began teaching myself JavaScript.
-
-Fast forward to 2025, and I’ve grown into a successful software engineer, 🍇mastering both front-end and back-end development. Along the way, I’ve built everything from websites to applications, combining creativity and technical expertise to solve real-world problems. 💜My journey hasn’t been just about coding—it’s been about constantly pushing myself to learn, grow, and turn ideas into reality.
 
 [website]: https://alessiopavlenco.com
 [youtube]: https://youtube.com/@AlessioPavlenco54
