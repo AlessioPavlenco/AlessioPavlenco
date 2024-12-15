@@ -64,6 +64,7 @@
 
 <!--Github stats Table--> 
 <h2 align="center">🟣 𝗦𝘁𝗮𝘁𝘀 🟣</h2>
+<table width="100%">
   <tbody><tr>
     <td width="50%">
       <h3 align="center"><strong>𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</strong></h3>
