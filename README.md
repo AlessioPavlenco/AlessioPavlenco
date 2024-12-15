@@ -4,16 +4,9 @@
 
 I’m Alessio Pavlenco, a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of @Aipn Agency, I’m building my vision of the digital world while documenting my journey: 💪 fitness and gym progress, 🌍 life experiences and growth, 🚀 scaling my agency, and 👨‍💻 advancing my career in development. Every project I create is built from the ground up, and I share my story on my YouTube channel, Alessio Pavlenco, to inspire and connect with others.
 
-   <p align="left">
-      <a href="https://www.youtube.com/@AlessioPavlenco54?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCveVEc1qBxVWPXuW7fL1y_Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@AlessioPavlenco54">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCveVEc1qBxVWPXuW7fL1y_Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/AlessioPavlenco?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AlessioPavlenco?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/AlessioPavlenco?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlessioPavlenco?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?alessiopavlenco=Kiran1689&amp;label=Profile%20views&amp;color=770677&amp;style=for-the-badge&amp;logo=star" alt="Kiran1689" style="padding-right:20px;">
+</p>
 
 ---
 
@@ -54,8 +47,6 @@ I’m Alessio Pavlenco, a 17-year-old entrepreneur from Moldova, combining my pa
 #
 
 </div>
-
-<hr/>
 
 <h2 align="center">🟣 Stats 🟣</h2>
 <br>
