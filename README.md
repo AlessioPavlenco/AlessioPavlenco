@@ -9,7 +9,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Icon-Instagram-Alessio?style=flat&logo=Instagram&logoColor=white&label=Follow%20Me%20On&color=blueviolet">
   </a>  
   <a href="https://www.x.com/AlessioPavlenco" target="_blank">
-    <img alt="X" src="[https://img.shields.io/badge/Icon-X-Alessio?style=flat&logo=x&logoColor=white&label=Follow%20Me%20On&color=blueviolet">
+    <img alt="X" src="https://img.shields.io/badge/Icon-X-Alessio?style=flat&logo=x&logoColor=white&label=Follow%20Me%20On&color=blueviolet">
   </a>  
  <a href="https://www.youtube.com/@AlessioPavlenco" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/Icon-YouTube-Alessio?style=flat&logo=youtube&logoColor=white&label=Follow%20Me%20On&color=blueviolet">
