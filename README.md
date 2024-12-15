@@ -87,7 +87,7 @@
     <td width="50%">
       <h3 align="center"><strong>𝗟𝗮𝘁𝗲𝘀𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁</strong></h3>
       <p align="center">
-        <a href="https://github.com/AlessioPavlenco/cryptos">
+        <a href="https://github.com/AlessioPavlenco/AlessioPavlenco">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessioPavlenco&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
         </a>
       </p>
