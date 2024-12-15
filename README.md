@@ -23,7 +23,8 @@
 
 ### 😈 Languages and Tools
 
-<p><img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=blueviolet" alt="">
+<p>
+<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&amp;logo=html5&amp;logoColor=white&amp;color=blueviolet" alt="">
@@ -37,7 +38,8 @@
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/GitHub-Git-informational?style=flat&amp;logo=git&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/IDE-VSCode-informational?style=flat&amp;logo=visualstudiocode&amp;logoColor=white&amp;color=blueviolet" alt="">
-<img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&amp;logo=xcode&amp;logoColor=white&amp;color=blueviolet" alt=""></p>
+<img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&amp;logo=xcode&amp;logoColor=white&amp;color=blueviolet" alt="">
+</p>
 <br />
 
 #
