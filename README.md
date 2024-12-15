@@ -35,8 +35,6 @@
 <img src="https://img.shields.io/badge/Code-csharp-informational?style=flat&amp;logo=csharp&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-Swift-informational?style=flat&amp;logo=swift&amp;logoColor=white&amp;color=blueviolet" alt="">
-<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=blueviolet" alt="">
-<img src="https://img.shields.io/badge/GitHub-Git-informational?style=flat&amp;logo=git&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/IDE-VSCode-informational?style=flat&amp;logo=visualstudiocode&amp;logoColor=white&amp;color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&amp;logo=xcode&amp;logoColor=white&amp;color=blueviolet" alt="">
 </p>
