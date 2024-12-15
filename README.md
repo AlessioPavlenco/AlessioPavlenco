@@ -18,7 +18,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AlessioPavlenco&amp;label=Profile%20views&amp;color=blueviolet&amp;style=for-the-badge&amp;logo=star" alt="AlessioPavlenco" style="padding-right:20px;">
 </p>
-
+<br />
 ---
 
 ### 😈 Languages and Tools
@@ -35,7 +35,7 @@
 </p>
 <br />
 
-#
+---
 
 ### 📺 Latest YouTube Videos
 
