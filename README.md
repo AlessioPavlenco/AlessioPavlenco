@@ -17,9 +17,9 @@
     <img alt="YouTube" src="https://img.shields.io/badge/Icon-YouTube-Alessio?style=flat&logo=youtube&logoColor=white&label=Follow%20Me%20On&color=blueviolet">
   </a>
 
-<p align="left">I’m a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of @Aipn Agency, I’m building my vision of the digital world while documenting my journey:</p>
-
 <br>
+
+<p align="left">I’m a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of @Aipn Agency, I’m building my vision of the digital world while documenting my journey:</p>
 
 <ul>
 <li>🎮 Fitness and gym progress.</li>
