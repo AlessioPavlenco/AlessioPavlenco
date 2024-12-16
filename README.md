@@ -64,8 +64,6 @@
 <img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&amp;logo=xcode&amp;logoColor=white&amp;color=blueviolet" alt="">
 </p>
 
-#
-
 <!--### 📺 Latest YouTube Videosh-->
 
 <!-- BEGIN YOUTUBE-CARDS 
@@ -82,7 +80,7 @@
 <!--#-->
 
 <!--Github stats Table--> 
-<h2 align="left">🌂 𝚂𝚝𝚊𝚝𝚜</h2>
+<!--<h2 align="left">🌂 𝚂𝚝𝚊𝚝𝚜</h2>
 <table width="100%">
   <tbody><tr>
     <td width="50%">
@@ -120,7 +118,7 @@
       </p>
     </td>
   </tr>
-</tbody></table>
+</tbody></table> -->
 
 
 #
