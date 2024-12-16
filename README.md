@@ -120,8 +120,5 @@
   </tr>
 </tbody></table> -->
 
-
-#
-
 [website]: https://alessiopavlenco.com
 [youtube]: https://youtube.com/@AlessioPavlenco54
