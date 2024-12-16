@@ -1,4 +1,4 @@
-# 💷 𝙰𝚕𝚎𝚜𝚜𝚒𝚘 "𝚊𝟷𝚙𝙽" 𝙿𝚊𝚟𝚕𝚎𝚗𝚌𝚘
+# 💷 Alessio "a1pN" Pavlenco
 
 **`17 y.o (Developer/Contmt Creator/Entrepreneur)`**
 
@@ -40,7 +40,7 @@
 
 #
 
-### 😈 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
+### 😈 Languages and Tools
 
 <p>
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=blueviolet" alt="">
@@ -76,49 +76,6 @@
 <!-- END YOUTUBE-CARDS -->
 
 <!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@AlessioPavlenco54?sub_confirmation=1) -->
-
-<!--#-->
-
-<!--Github stats Table--> 
-<!--<h2 align="left">🌂 𝚂𝚝𝚊𝚝𝚜</h2>
-<table width="100%">
-  <tbody><tr>
-    <td width="50%">
-      <h3 align="center"><strong>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜</strong></h3>
-      <p align="center">
-        <a href="https://github.com/AlessioPavlenco">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessioPavlenco&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>𝚂𝚝𝚛𝚎𝚊𝚔 𝚂𝚝𝚊𝚝𝚜</strong></h3>
-      <p align="center">
-        <a href="https://github.com/AlessioPavlenco">
-          <img align="center" src="https://streak-stats.demolab.com?user=AlessioPavlenco&amp;theme=nightowl" alt="Streak Stats">
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>𝙻𝚊𝚝𝚎𝚜𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝</strong></h3>
-      <p align="center">
-        <a href="https://github.com/AlessioPavlenco/Aipn Agency">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessioPavlenco&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Aipn Project">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>𝚃𝚘𝚙 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗</strong></h3>
-      <p align="center">
-        <a href="https://github.com/AlessioPavlenco">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AlessioPavlenco&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
-        </a>
-      </p>
-    </td>
-  </tr>
-</tbody></table> -->
 
 [website]: https://alessiopavlenco.com
 [youtube]: https://youtube.com/@AlessioPavlenco54
