@@ -29,7 +29,7 @@
 <li>🟣 Scaling my <a href="https://www.agency.alessiopavlenco.com"><strong>Agency</strong></a>.</li>
 <li>🫐 Advancing my career in development.</li>
 <li>🎬 Recording all about my life on my <a href="https://youtube.com/@AlessioPavlenco54">YouTube channel</a>.</li>
-<li>👾 Visit my <a href="https://alessiopavlenco.com">WebSite</a> for more details about me.</li>
+<li>👾 Visit my <a href="https://alessiopavlenco.com"><strong>WebSite</strong></a> for more details about me.</li>
 </ul>
 
 <br>
@@ -61,6 +61,7 @@
 <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=blueviolet" alt="">
 
 <img src="https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=codeium&logoColor=white&label=IDE&color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/IDE-SublimeText-informational?style=flat&logo=sublimetext&logoColor=white&label=IDE&color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&amp;logo=xcode&amp;logoColor=white&amp;color=blueviolet" alt="">
 </p>
 
