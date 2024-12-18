@@ -79,7 +79,5 @@
 
 <!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@AlessioPavlenco54?sub_confirmation=1) -->
 
-// test Alessio
-
-// Serj pune un YouTube alert si dupa un button cu subscription
-//Jak brother, make a pannel for youtube pannels 
+// test Alessio Serj pune un YouTube alert si dupa un button cu subscription
+Jak brother, make a pannel fo
