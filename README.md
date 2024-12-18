@@ -25,10 +25,10 @@
 <li>🎮 Fitness and gym progress.</li>
 <li>🌆 I teach you how to elevate your agency to new heights and become a true entrepreneur as a software engineer.</li>
 <li>💟 Life experiences and growth.</li>
-<li>💜 I share my story on my <a href="https://youtube.com/@AlessioPavlenco54">YouTube channel</a>.</li>
+<li>💜 I share my story on my <a href="https://youtube.com/@AlessioPavlenco54"><strong>YouTube channel</strong></a>.</li>
 <li>🟣 Scaling my <a href="https://www.agency.alessiopavlenco.com"><strong>Agency</strong></a>.</li>
 <li>🫐 Advancing my career in development.</li>
-<li>🎬 Recording all about my life on my <a href="https://youtube.com/@AlessioPavlenco54">YouTube channel</a>.</li>
+<li>🎬 Recording all about my life on my <a href="https://youtube.com/@AlessioPavlenco54"><strong>YouTube channel</strong></a>.</li>
 <li>👾 Visit my <a href="https://alessiopavlenco.com"><strong>WebSite</strong></a> for more details about me.</li>
 </ul>
 
