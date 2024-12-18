@@ -19,7 +19,7 @@
 
 <br>
 <br>
-<p align="left">I’m a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of @Aipn Agency, I’m building my vision of the digital world while documenting my journey:</p>
+<p align="left">I’m a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of <a href="https://www.agency.alessiopavlenco.com/">@Aipn Agency</a>, I’m building my vision of the digital world while documenting my journey:</p>
 
 <ul>
 <li>🎮 Fitness and gym progress.</li>
