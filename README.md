@@ -58,7 +58,7 @@
 
 <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-NativeReact-informational?style=flat&logo=createreactapp&logoColor=white&color=blueviolet" alt="">
-https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&label=Code&color=blueviolet
+<img src="https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&label=Code&color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=blueviolet" alt="">
 
 <img src="https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=codeium&logoColor=white&label=IDE&color=blueviolet" alt="">
