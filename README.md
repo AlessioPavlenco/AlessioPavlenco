@@ -82,3 +82,4 @@ vue.js
 
 <!--test Alessio Serj pune un YouTube alert si dupa un button cu subscription
 Jak brother, make a pannel for the youtube video cards-->
+<!--de facut umpic mai mic-->
