@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&amp;logo=xcode&amp;logoColor=white&amp;color=blueviolet" alt="">
 </p>
 
-<!--### 📺 Latest YouTube Videosh
+<!--### 📺 Latest YouTube Videos
 
 BEGIN YOUTUBE-CARDS 
 [![Everything You NEED to Know about Docker](https://ytcards.demolab.com/?id=oUnWU4Y4kSY&title=Everything+You+NEED+to+Know+about+Docker&lang=en&timestamp=1734102064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1106 "Everything You NEED to Know about Docker")](https://www.youtube.com/watch?v=oUnWU4Y4kSY)
@@ -78,8 +78,7 @@ BEGIN YOUTUBE-CARDS
 [![A Day in the Life of a Software Engineer](https://ytcards.demolab.com/?id=WBl31Pyr_M8&title=A+Day+in+the+Life+of+a+Software+Engineer&lang=en&timestamp=1730376039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2259 "A Day in the Life of a Software Engineer")](https://www.youtube.com/watch?v=WBl31Pyr_M8)
  END YOUTUBE-CARDS
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@AlessioPavlenco54?sub_confirmation=1) --
->
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@AlessioPavlenco54?sub_confirmation=1) -->
 
 <!--test Alessio Serj pune un YouTube alert si dupa un button cu subscription
 Jak brother, make a pannel for the youtube video cards-->
