@@ -40,7 +40,7 @@
 
 #
 
-### 😈 Languages and Tools
+### <h3>😈 Languages and Tools</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=blueviolet" alt="">
