@@ -86,3 +86,78 @@ BEGIN YOUTUBE-CARDS
 <!--test Alessio Serj pune un YouTube alert si dupa un button cu subscription
 Jak brother, make a pannel for the youtube video cards-->
 <!--de facut umpic mai mic-->
+
+
+<!--import fs from 'node:fs/promises'
+import path from 'node:path'
+import { globby } from 'globby'
+
+const VERBOSE = process.argv.includes('--verbose')
+const DRY_RUN = process.argv.includes('--dry') || process.argv.includes('--dry-run')
+
+// These are the filetypes we only care about replacing the version
+const GLOB = [
+  '**/*.{css,html,js,json,md,pug,scss,txt,yml}'
+]
+const GLOBBY_OPTIONS = {
+  cwd: path.join(__dirname, '..'),
+  gitignore: true
+}
+const EXCLUDED_FILES = [
+  'CHANGELOG.md'
+]
+
+// Blame TC39... https://github.com/benjamingr/RegExp.escape/issues/37
+function regExpQuote(string) {
+  return string.replace(/[$()*+-.?[\\\]^{|}]/g, '\\$&')
+}
+
+function regExpQuoteReplacement(string) {
+  return string.replace(/\$/g, '$$')
+}
+
+async function replaceRecursively(file, oldVersion, newVersion) {
+  const originalString = await fs.readFile(file, 'utf8')
+  const newString = originalString.replace(
+    new RegExp(regExpQuote(oldVersion), 'g'), regExpQuoteReplacement(newVersion)
+  )
+
+  // No need to move any further if the strings are identical
+  if (originalString === newString) {
+    return
+  }
+
+  if (VERBOSE) {
+    console.log(`FILE: ${file}`)
+  }
+
+  if (DRY_RUN) {
+    return
+  }
+
+  await fs.writeFile(file, newString, 'utf8')
+}
+
+async function main(args) {
+  const [oldVersion, newVersion] = args
+
+  if (!oldVersion || !newVersion) {
+    console.error('USAGE: change-version old_version new_version [--verbose] [--dry[-run]]')
+    console.error('Got arguments:', args)
+    process.exit(1)
+  }
+
+  // Strip any leading `v` from arguments because otherwise we will end up with duplicate `v`s
+  [oldVersion, newVersion].map(arg => arg.startsWith('v') ? arg.slice(1) : arg)
+
+  try {
+    const files = await globby(GLOB, GLOBBY_OPTIONS, EXCLUDED_FILES)
+
+    await Promise.all(files.map(file => replaceRecursively(file, oldVersion, newVersion)))
+  } catch (error) {
+    console.error(error)
+    process.exit(1)
+  }
+}
+
+main(process.argv.slice(2))-->
