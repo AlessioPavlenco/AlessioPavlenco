@@ -63,8 +63,8 @@
 <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=blueviolet" alt="">
 
 <img src="https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=codeium&logoColor=white&label=IDE&color=blueviolet" alt="">
-<img src="https://img.shields.io/badge/IDE-SublimeText-informational?style=flat&logo=sublimetext&logoColor=white&label=IDE&color=blueviolet" alt="">
 <img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&amp;logo=xcode&amp;logoColor=white&amp;color=blueviolet" alt="">
+<img src="https://img.shields.io/badge/IDE-SublimeText-informational?style=flat&logo=sublimetext&logoColor=white&label=IDE&color=blueviolet" alt="">
 </p>
 
 <!--### 📺 Latest YouTube Videos
