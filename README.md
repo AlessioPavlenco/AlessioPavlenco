@@ -19,14 +19,14 @@
 
 <br>
 <br>
-<p align="left">I’m a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of <a href="https://www.agency.alessiopavlenco.com/" target="_blank"><strong>@Aipn Agency</strong></a>, I’m building my vision of the digital world while documenting my journey:</p>
+<p align="left">I’m a 17-year-old entrepreneur from Moldova, combining my passion for software development, fitness, and creativity. As the founder of <a href="https://github.com/AipnAgency/" target="_blank"><strong>@Aipn Agency</strong></a>, I’m building my vision of the digital world while documenting my journey:</p>
 
 <ul>
 <li>🎮 Fitness and gym progress.</li>
 <li>🌆 I teach you how to elevate your agency to new heights and become a true entrepreneur as a software engineer.</li>
 <li>💟 Life experiences and growth.</li>
 <li>💜 I share my story on my <a href="https://youtube.com/@AlessioPavlenco54" target="_blank"><strong>YouTube channel</strong></a>.</li>
-<li>🟣 Scaling my <a href="https://www.agency.alessiopavlenco.com" target="_blank"><strong>Agency</strong></a>.</li>
+<li>🟣 Scaling my <a href="https://github.com/AipnAgency" target="_blank"><strong>Agency</strong></a>.</li>
 <li>🫐 Advancing my career in development.</li>
 <li>🎬 Recording all about my life on my <a href="https://youtube.com/@AlessioPavlenco54" target="_blank"><strong>YouTube channel</strong></a>.</li>
 <li>👾 Visit my <a href="https://alessiopavlenco.com"><strong>WebSite</strong></a> for more details about me.</li>
