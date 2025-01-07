@@ -1,6 +1,6 @@
 <h3>💷 Alessio "a1pN" Pavlenco</h3>
 
-**`17 y.o (Developer/Contmt Creator/Entrepreneur)`**
+**`17 y.o (Developer/Content Creator/Entrepreneur)`**
 
 <br>
 
