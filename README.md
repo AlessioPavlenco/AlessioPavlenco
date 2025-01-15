@@ -5,7 +5,7 @@
 <br>
 
    <a href="https://www.linkedin.com/in/AlessioPavlenco/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Icon-Linkedin-Alessio?style=flat&logo=linkedin&logoColor=white&label=Follow%20Me%20On&color=blueviolet">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Icon-Linkedin-Alessio?style=flat&logo=inspire&logoColor=white&label=Follow%20Me%20On&color=blueviolet&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2FAlessioPavlenco%2F">
   </a>   
    <a href="https://www.instagram.com/AlessioPavlenco" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Icon-Instagram-Alessio?style=flat&logo=Instagram&logoColor=white&label=Follow%20Me%20On&color=blueviolet">
