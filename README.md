@@ -1,23 +1,18 @@
-# `alessio.pavlenco`
+```text
+alessio@aipn:~$ ./about-me
 
-```console
-moldova@world:~$ whoami
-Alessio — full-stack developer, still learning.
-
-moldova@world:~$ current-mission
-Building my own software & development agency.
+  Alessio Pavlenco
+  ├── origin     Moldova
+  ├── role       Full-stack developer
+  ├── status     Still learning
+  └── mission    Building software that matters
 ```
 
-I turn ideas into software at **[Aipn Agency](https://aipnagency.com)**.
+My current build is **[Aipn Agency](https://aipnagency.com)** —  
+a software and development agency created from the ground up.
 
 ```js
-while (curious) {
-  learn();
-  build();
-  improve();
-}
+learn() → build() → improve() → repeat();
 ```
 
-`full-stack development` · `programming` · `building software`
-
-[instagram](https://instagram.com/alessiopavleco) / [linkedin](https://linkedin.com/in/alessiopavlenco)
+[instagram](https://instagram.com/alessiopavleco) · [linkedin](https://linkedin.com/in/alessiopavlenco)
